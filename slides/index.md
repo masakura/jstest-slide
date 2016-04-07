@@ -1,10 +1,9 @@
+# Testing JavaScript
 
-# JavaScript Testing
+JavaScript テストツールをいくつか紹介
 
-From the terminal, pop in:
+かごべん ソフトウェアテスト勉強会
 
-  ```yo reveal:slide "Slide Title"```
+2016/4/9
 
-Available options:
-
- ```--markdown --attributes --notes```
+政倉 智
