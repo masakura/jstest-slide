@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "JavaScript Testing",
+    "packageVersion": "0.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "masakura",
+    "githubRepository": "jstest-slide"
+  }
+}
