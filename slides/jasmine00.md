@@ -1,3 +1,1 @@
 ## まずは Jasmine!
-
-ToDo ロゴ
