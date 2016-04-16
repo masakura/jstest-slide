@@ -1,5 +1,3 @@
 ## PhantomJS
 
 ヘッドレスブラウザー
-
-ToDo ロゴ
